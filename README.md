@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there! I'm Divyajyot Sinha
 
-<!--
-**sinha-dev/sinha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Engineering student at TCET, Mumbai  
+💡 Passionate about learning web dev, game dev, and problem-solving  
+💻 Currently learning HTML, CSS, Java and exploring Git & Command Line  
+🎯 I love helping peers and being involved in student tech communities like CSI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack (So Far)
+- HTML, CSS, Java (Beginner)
+- Git & GitHub (Learning phase)
+- PC hardware, basic command line
+
+---
+
+### 🌱 Currently Learning:
+- Java OOPs
+- GitHub Projects
+- Game engine basics
+
+---
+
+### 🔗 Let’s Connect
+📧 1032241237@tcetmumbai.in  
+🌍 Location: Vasai (East), Maharashtra – India  
